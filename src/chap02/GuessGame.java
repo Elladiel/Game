@@ -1,7 +1,7 @@
 package chap02;
 
 /**
- * Created by Анастасия on 01.10.2017.
+ * Класс описывает игровой процесс.
  */
 public class GuessGame {
     private Player firstPlayer = new Player();

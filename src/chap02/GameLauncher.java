@@ -1,7 +1,7 @@
 package chap02;
 
 /**
- * Created by Анастасия on 01.10.2017.
+ * Класс запускает игру.
  */
 public class GameLauncher {
     public static void main (String[] args) {
